@@ -20,13 +20,10 @@ let nicolasperussi = {
 <h3>A little bit about me:</h3>
 
 <p align="left">
-    🔭 
+    🌱 I’m currently learning React Native!
 </p>
 <p align="left">
-    🌱 I’m currently learning web development with the PERN stack
-</p>
-<p align="left">
-    🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
+    🙋🏻‍♂️ I’m looking to collaborate on projects that will increase my experience!
 </p>
 <p align="left">
     📫 You can contact me on: <a href = "mailto: nicolasperussi12@hotmail.com"> e-mail </a>
