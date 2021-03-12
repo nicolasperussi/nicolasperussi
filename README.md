@@ -18,7 +18,7 @@ let nicolasperussi = {
 };
 ```
 
-<h3>A little bit about me:</h3>
+<h3>A few things about me:</h3>
 
 <p align="left">
     🌱 I’m currently learning React Native!
