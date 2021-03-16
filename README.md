@@ -8,7 +8,7 @@
 -->
 
 ```javascript
-let nicolasperussi = {
+const nicolasperussi = {
     age: 17,
     country: 'Brazil',
     city: 'São Paulo, SP',
