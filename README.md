@@ -32,4 +32,5 @@ const nicolasperussi = {
 <br/>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolasperussi&show_icons=true&t&theme=react"/>
 <br/>
+<br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hugobsb" />
