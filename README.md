@@ -9,10 +9,10 @@
 
 ```javascript
 const nicolasperussi = {
-    age: 17,
+    age: 18,
     country: 'Brazil',
     city: 'São Paulo, SP',
-    stack: ['HTML','CSS','Javascript','Bootstrap', 'React', 'React Native'],
+    stack: ['HTML', 'CSS', 'Javascript', 'Bootstrap', 'React', 'React Native'],
     interestedIn: "Anything that's a challenge",
     hobbies: ['Gaming', 'Chess', 'Learning stuff'']
 };
@@ -41,4 +41,4 @@ const nicolasperussi = {
 <br/>
 <br/>
 <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hugobsb" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolasperussi" />
