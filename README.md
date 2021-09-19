@@ -21,7 +21,7 @@ const nicolasperussi = {
 <h3>A few things about me:</h3>
 
 <p align="left">
-    🌱 I’m currently learning React Native!
+    🌱 I’m currently learning Node with Express!
 </p>
 <p align="left">
     🙋🏻‍♂️ I’m looking to collaborate on projects that will increase my experience!
