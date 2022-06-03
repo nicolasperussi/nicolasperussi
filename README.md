@@ -9,12 +9,12 @@
 
 ```javascript
 const nicolasperussi = {
-    age: 18,
+    age: 19,
     country: 'Brazil',
     city: 'São Paulo, SP',
     stack: ['HTML', 'CSS', 'Javascript', 'Bootstrap', 'React', 'React Native'],
     interestedIn: "Anything that's a challenge",
-    hobbies: ['Gaming', 'Chess', 'Learning stuff'']
+    hobbies: ['Gaming', 'Chess', 'Learning stuff']
 };
 ```
 
