@@ -30,6 +30,4 @@ const nicolasperussi = {
     📫 You can contact me on: <a href = "mailto: nicolasperussi12@hotmail.com"> e-mail </a>
 </p>
 <br/>
-<br/>
-<br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolasperussi" />
