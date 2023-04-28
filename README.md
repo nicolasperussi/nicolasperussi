@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/57019750/110891678-427a0200-82d1-11eb-9c0c-1912f766bac3.png)
+![banner](https://user-images.githubusercontent.com/57019750/235015350-1a40906b-e3b5-4e26-b1f4-85bb3cb72dbf.png)
 
 <a href = "mailto: nicolasperussi12@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-nicolas-soares-perussi-a3626620a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
