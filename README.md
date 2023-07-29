@@ -9,10 +9,10 @@
 
 ```javascript
 const nicolasperussi = {
-    age: 19,
+    age: 20,
     country: 'Brazil',
     city: 'São Paulo, SP',
-    stack: ['React', 'NodeJS', 'Mongo', 'React Native'],
+    stack: ['React', 'NodeJS', 'Mongo', 'PostgreSQL', 'React Native'],
     interestedIn: "Anything that's a challenge",
     hobbies: ['Gaming', 'Chess', 'Learning stuff']
 };
