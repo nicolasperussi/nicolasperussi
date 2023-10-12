@@ -21,7 +21,7 @@ const nicolasperussi = {
 <h3>A few things about me:</h3>
 
 <p align="left">
-    🌱 I’m currently improving my back-end skills using Node.js!
+    🌱 I’m currently improving my back-end skills using Java with JPA!
 </p>
 <p align="left">
     🙋🏻‍♂️ I’m looking to collaborate on projects that will increase my experience!
