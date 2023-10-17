@@ -12,9 +12,9 @@ const nicolasperussi = {
     age: 20,
     country: 'Brazil',
     city: 'São Paulo, SP',
-    skills: ['TypeScript', 'React', 'NodeJS', 'Mongo', 'PostgreSQL', 'React Native'],
+    skills: ['Java', 'TypeScript', 'React', 'NodeJS', 'Mongo', 'PostgreSQL', 'React Native'],
     interestedIn: "Anything that's a challenge",
-    hobbies: ['Gaming', 'Chess', 'Learning stuff']
+    hobbies: ['Gaming', 'Chess', 'Reading', 'Learning stuff']
 };
 ```
 
