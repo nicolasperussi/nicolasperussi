@@ -12,16 +12,16 @@ const nicolasperussi = {
     age: 20,
     country: 'Brazil',
     city: 'São Paulo, SP',
-    skills: ['Java', 'TypeScript', 'React', 'NodeJS', 'Mongo', 'PostgreSQL', 'React Native'],
+    skills: ['Java', 'TypeScript', 'React', 'NodeJS', 'Mongo', 'PostgreSQL', 'React Native', 'Flutter'],
     interestedIn: "Anything that's a challenge",
-    hobbies: ['Gaming', 'Chess', 'Reading', 'Learning stuff']
+    hobbies: ['Music', 'Gaming', 'Chess', 'Reading', 'Learning new things']
 };
 ```
 
 <h3>A few things about me:</h3>
 
 <p align="left">
-    🌱 I’m currently improving my back-end skills using Java with JPA!
+    🌱 I’m currently learning Angular!
 </p>
 <p align="left">
     🙋🏻‍♂️ I’m looking to collaborate on projects that will increase my experience!
