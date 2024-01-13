@@ -1,33 +1,39 @@
-![banner](https://user-images.githubusercontent.com/57019750/235015350-1a40906b-e3b5-4e26-b1f4-85bb3cb72dbf.png)
-
-<a href = "mailto: nicolasperussi12@hotmail.com"><img src="https://img.shields.io/badge/-Email-%230072C6?style=for-the-badge&logo=mail.ru&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/nicolasperussi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<!--#<a href="https://codepen.io/joevtap" target="_blank"><img src="https://img.shields.io/badge/-Codepen-%23333?style=for-the-badge&logo=codepen&logoColor=white"></a>
-#<a href="https://twitter.com/joevtap" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-#<a href="https://instagram.com/joevtap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
--->
-
-```javascript
-const nicolasperussi = {
-    age: 20,
-    country: 'Brazil',
-    city: 'São Paulo, SP',
-    skills: ['Java', 'TypeScript', 'React', 'NodeJS', 'Mongo', 'PostgreSQL', 'React Native', 'Flutter'],
-    interestedIn: "Anything that's a challenge",
-    hobbies: ['Music', 'Gaming', 'Chess', 'Reading', 'Learning new things']
-};
-```
-
-<h3>A few things about me:</h3>
+<p align="left"> 
+      Hello there! I'm an aspiring <strong>web developer</strong> currently pursuing a degree in <strong>Systems Analysis</strong>.
+</p>
 
 <p align="left">
-    🌱 I’m currently learning Angular!
+  🕑 I'm currently learning <strong>Angular and RxJS</strong>!
 </p>
+
 <p align="left">
-    🙋🏻‍♂️ I’m looking to collaborate on projects that will increase my experience!
+ <strong>You can find me on:<strong>
 </p>
+
 <p align="left">
-    📫 You can contact me on: <a href = "mailto: nicolasperussi12@hotmail.com"> e-mail </a>
-</p>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolasperussi" />
+<a href="mailto:nicolasperussi12@hotmail.com">
+  <img src="https://img.shields.io/badge/-Email-gray?style=flat-square&labelColor=white&logo=maildotru&logoColor=gray&link=mailto:nicolasperussi12@hotmail.com" />
+</a>
+
+<a href="https://www.linkedin.com/in/nicolasperussi" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasperussi/"/>
+</a>
+
+<strong>My Skills:<strong>
+  
+  ![React](https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=blue)
+  ![NodeJS](https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=nodedotjs)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=typescript)
+  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-100000?style=for-the-badge&logo=springboot&logoColor=green)
+  ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=red)
+  ![React Native](https://img.shields.io/badge/react%20native-100000?style=for-the-badge&logo=react)
+  ![Flutter](https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=flutter)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-100000?style=for-the-badge&logo=postgresql)
+  
+  
+<div style="display: flex; gap: 32px">        
+    <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasperussi&theme=react&hide_border=false"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasperussi&layout=compact&theme=react&count_private=true"/>
+</div>
